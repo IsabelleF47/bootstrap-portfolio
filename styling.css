@@ -3,7 +3,7 @@
   font-size: 18px;
   line-height: 34px;
   color:black;
-  background: url("https://www.amazon.com/AOFOTO-Aerospace-Photography-Background-Wallpaper/dp/B079Q46JML");
+  background: image-set ;
 }
 
 * {
@@ -65,7 +65,7 @@ h3 {
 
 #logo {
   float: left;
-  width: 250px;
+  width: 50%;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -125,9 +125,7 @@ h3, h2 {
 }
 
 .main-section {
-  float: left;
-  width: 100%;
-  max-width: 960px;
+ 
   padding: 30px;
   margin: 0 0 40px;
   background: yellow;
@@ -151,7 +149,7 @@ h3, h2 {
 .work img {
   width: 100%;
   border: 0 none;
-  opacity: 0.8;
+  
 }
 
 .work h3 {
